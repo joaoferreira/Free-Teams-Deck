@@ -1,0 +1,6 @@
+
+.DS_Store
+data/config/wificonfig.json
+.vscode/c_cpp_properties.json
+.vscode/arduino.json
+*.json

@@ -1,0 +1,10 @@
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\obj\Debug\FreeDeckWindows.csprojAssemblyReference.cache
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\bin\Debug\Free Teams Deck.exe.config
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\bin\Debug\Free Teams Deck.exe.manifest
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\bin\Debug\Free Teams Deck.application
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\bin\Debug\Free Teams Deck.exe
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\bin\Debug\Free Teams Deck.pdb
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\obj\Debug\Free Teams Deck.exe.manifest
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\obj\Debug\Free Teams Deck.application
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\obj\Debug\Free Teams Deck.exe
+C:\Users\JOFR\Desktop\Personal\Windows\FreeDeckWindows\FreeDeckWindows\obj\Debug\Free Teams Deck.pdb
