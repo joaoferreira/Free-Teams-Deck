@@ -1,0 +1,8 @@
+{
+	"ssid": "HANDS ON tek",
+	"password": "123@password",
+	"wifimode": "WIFI_STA",
+	"wifihostname": "freetouchdeck",
+	"sleepenable": true,
+	"sleeptimer": 10
+}

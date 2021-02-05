@@ -1,0 +1,37 @@
+{
+  "logo0": "desktop.bmp",
+  "logo1": "leftdock.bmp",
+  "logo2": "rightdock.bmp",
+  "logo3": "topdock.bmp",
+  "logo4": "bottomdock.bmp",
+  "button0":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "5", "4", "0" ],
+    "valuearray": [ "8", "d", "0" ] 
+  },
+  "button1":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "5", "2", "0" ],
+    "valuearray": [ "8", "3", "0" ] 
+  },
+  "button2":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "5", "2", "0" ],
+    "valuearray": [ "8", "4", "0" ] 
+  },
+  "button3":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "5", "2", "0"],
+    "valuearray": [ "8", "1", "0" ] 
+  },
+  "button4":{
+    "latch": false,
+    "latchlogo": "",
+    "actionarray": [ "5", "2", "0" ],
+    "valuearray": [ "8", "2", "0" ] 
+  }
+}
