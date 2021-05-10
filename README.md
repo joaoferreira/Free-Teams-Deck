@@ -11,3 +11,6 @@ To learn more about these projects I recommend you to have a look to the followi
 * [My experience building a Free Touch Deck](https://handsontek.net/experience-building-free-touch-deck)
 
 ![Free Teams Deck](https://handsontek.net/images/Teams/TeamsDeck/Free%20Teams%20Deck.png)
+
+## This is a fork of Dustin Watts "FreeTouchDeck"
+Thanks to Dust Watts for all his hard work, here you find his orginal work: https://github.com/DustinWatts/FreeTouchDeck
